@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FA54AC46261360CF00FA2909 /* ColoredRoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54AC45261360CF00FA2909 /* ColoredRoundedRectangle.swift */; };
 		FA54AC492613617800FA2909 /* ColoredSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54AC482613617800FA2909 /* ColoredSlider.swift */; };
+		FA54AC4C26136E8700FA2909 /* .ignorefile in Resources */ = {isa = PBXBuildFile; fileRef = FA54AC4B26136E8700FA2909 /* .ignorefile */; };
 		FA54BBEB261314860090E00D /* ColorChangerHW3_2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54BBEA261314860090E00D /* ColorChangerHW3_2App.swift */; };
 		FA54BBED261314860090E00D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54BBEC261314860090E00D /* ContentView.swift */; };
 		FA54BBEF2613148C0090E00D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA54BBEE2613148C0090E00D /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* Begin PBXFileReference section */
 		FA54AC45261360CF00FA2909 /* ColoredRoundedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredRoundedRectangle.swift; sourceTree = "<group>"; };
 		FA54AC482613617800FA2909 /* ColoredSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredSlider.swift; sourceTree = "<group>"; };
+		FA54AC4B26136E8700FA2909 /* .ignorefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = .ignorefile; sourceTree = "<group>"; };
 		FA54BBE7261314860090E00D /* ColorChangerHW3.2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorChangerHW3.2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA54BBEA261314860090E00D /* ColorChangerHW3_2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorChangerHW3_2App.swift; sourceTree = "<group>"; };
 		FA54BBEC261314860090E00D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		FA54BBDE261314860090E00D = {
 			isa = PBXGroup;
 			children = (
+				FA54AC4B26136E8700FA2909 /* .ignorefile */,
 				FA54BBE9261314860090E00D /* ColorChangerHW3.2 */,
 				FA54BBE8261314860090E00D /* Products */,
 			);
@@ -132,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA54AC4C26136E8700FA2909 /* .ignorefile in Resources */,
 				FA54BBF22613148C0090E00D /* Preview Assets.xcassets in Resources */,
 				FA54BBEF2613148C0090E00D /* Assets.xcassets in Resources */,
 			);
