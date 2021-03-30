@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA54AC46261360CF00FA2909 /* ColoredRoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54AC45261360CF00FA2909 /* ColoredRoundedRectangle.swift */; };
+		FA54AC492613617800FA2909 /* ColoredSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54AC482613617800FA2909 /* ColoredSlider.swift */; };
 		FA54BBEB261314860090E00D /* ColorChangerHW3_2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54BBEA261314860090E00D /* ColorChangerHW3_2App.swift */; };
 		FA54BBED261314860090E00D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54BBEC261314860090E00D /* ContentView.swift */; };
 		FA54BBEF2613148C0090E00D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA54BBEE2613148C0090E00D /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA54AC45261360CF00FA2909 /* ColoredRoundedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredRoundedRectangle.swift; sourceTree = "<group>"; };
+		FA54AC482613617800FA2909 /* ColoredSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredSlider.swift; sourceTree = "<group>"; };
 		FA54BBE7261314860090E00D /* ColorChangerHW3.2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorChangerHW3.2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA54BBEA261314860090E00D /* ColorChangerHW3_2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorChangerHW3_2App.swift; sourceTree = "<group>"; };
 		FA54BBEC261314860090E00D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 			children = (
 				FA54BBEA261314860090E00D /* ColorChangerHW3_2App.swift */,
 				FA54BBEC261314860090E00D /* ContentView.swift */,
+				FA54AC45261360CF00FA2909 /* ColoredRoundedRectangle.swift */,
+				FA54AC482613617800FA2909 /* ColoredSlider.swift */,
 				FA54BBEE2613148C0090E00D /* Assets.xcassets */,
 				FA54BBF32613148C0090E00D /* Info.plist */,
 				FA54BBF02613148C0090E00D /* Preview Content */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA54BBED261314860090E00D /* ContentView.swift in Sources */,
+				FA54AC492613617800FA2909 /* ColoredSlider.swift in Sources */,
 				FA54BBEB261314860090E00D /* ColorChangerHW3_2App.swift in Sources */,
+				FA54AC46261360CF00FA2909 /* ColoredRoundedRectangle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
